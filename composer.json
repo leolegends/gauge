@@ -1,18 +1,18 @@
 {
-    "name": "tobiasdierich/gauge",
+    "name": "leolegends/gauge",
     "description": "An easy to use application performance monitor.",
     "keywords": ["laravel", "apm", "performance", "monitoring"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Tobias Dierich",
-            "email": "tobias@codelayer.de"
+            "name": "Leonardo Ribeiro",
+            "email": "lviniciusribeiro@yahoo.com.br"
         }
     ],
     "require": {
         "php": "^7.2|^8.0",
         "ext-json": "*",
-        "laravel/framework": "^6.0|^7.0|^8.0",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0",
         "moontoast/math": "^1.2",
         "symfony/var-dumper": "^4.4|^5.0"
     },
